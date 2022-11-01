@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    text-align: center
+}
+
+body {
+    background: lightcyan;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scorecard {
+    color: #F94F6D;
+    background: black;
+    font-size: 70px;
+    width: 90px;
+    margin: 20px;
+}
+
+button {
+    background: lightblue;
+    color: white;
+    border-radius: 5px;
+    border-color: lightskyblue;
+    box-shadow: 0;   
+}
+
+.newgame {
+    margin: 20px;
+    background: black;
+    color: whitesmoke;
+    font-weight: bold;
+    width: 120px;
+    border-color: white;
+    box-shadow: none;
+}
